@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/form-validation-and-manipulation/static/css/main.b1dede64.chunk.css",
+    "main.js": "/form-validation-and-manipulation/static/js/main.20b21eeb.chunk.js",
+    "main.js.map": "/form-validation-and-manipulation/static/js/main.20b21eeb.chunk.js.map",
+    "runtime-main.js": "/form-validation-and-manipulation/static/js/runtime-main.6f3aeda3.js",
+    "runtime-main.js.map": "/form-validation-and-manipulation/static/js/runtime-main.6f3aeda3.js.map",
+    "static/js/2.389f0515.chunk.js": "/form-validation-and-manipulation/static/js/2.389f0515.chunk.js",
+    "static/js/2.389f0515.chunk.js.map": "/form-validation-and-manipulation/static/js/2.389f0515.chunk.js.map",
+    "static/js/3.f8c26014.chunk.js": "/form-validation-and-manipulation/static/js/3.f8c26014.chunk.js",
+    "static/js/3.f8c26014.chunk.js.map": "/form-validation-and-manipulation/static/js/3.f8c26014.chunk.js.map",
+    "index.html": "/form-validation-and-manipulation/index.html",
+    "static/css/main.b1dede64.chunk.css.map": "/form-validation-and-manipulation/static/css/main.b1dede64.chunk.css.map",
+    "static/js/2.389f0515.chunk.js.LICENSE.txt": "/form-validation-and-manipulation/static/js/2.389f0515.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f3aeda3.js",
+    "static/js/2.389f0515.chunk.js",
+    "static/css/main.b1dede64.chunk.css",
+    "static/js/main.20b21eeb.chunk.js"
+  ]
+}
